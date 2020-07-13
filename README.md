@@ -2,6 +2,8 @@
 
 Classification, detection and segmentation of unordered 3D point sets i.e. point clouds.
 
+Note: Open the notebook in colaboratory to see the trimesh output. Since Github is static HTML, it does not show the visualizations made using trimesh.
+
 ## Problem Context:
 
 A point cloud is a set of data points in space. Point clouds are generally produced by 3D scanners, which measure many points on the external surfaces of objects around them. As the output of 3D scanning processes, point clouds are used for many purposes, including to create 3D CAD (Computer-aided design) models for manufactured parts, for metrology and quality inspection, and for a multitude of visualization, animation, rendering and mass customization applications.
